@@ -1,1 +1,1 @@
-Images for wiki
+Teardown and serial pins
